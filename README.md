@@ -12,18 +12,22 @@ Many end-to-end multi-task Dialogue Systems architectures rely on different modu
 |---------|:-------:|:----:|-----:|
 |PPO 0.72 |0.60 |19.65 |0.59|
 |RND (DAs) | 0.78 | 0.67|  17.66|  0.612| 
-|RND (utt)|  0.82|  0.73|  16.80|  0.68| 
+|RND (utt)|  **0.82**|  **0.73**|  **16.80**|  **0.68**| 
 |IC (DAs) | 0.74|  0.64|  17.98|  0.57| 
 |IC (utt)|  0.76|  0.65|  17.67|  0.60| 
-|IC joint (DAs)|  0.78|  0.65|  18.37|  0.69| 
-
+|IC joint (DAs)|  0.78|  0.65|  18.37|  **0.69**| 
 
 
 #### Learning curves
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-
-
+<div class="row">
+  <div class="column" align="center">
+    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/success_rate_curves.png" width = 100> 
+    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/book_rate_curves.png" width = 100> 
+    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/turns_curves.png" width = 100> 
+    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/rewards_curves.png" width = 100> 
+  </div>
+</div>
 
 - [Convlab-2 repo](https://github.com/thu-coai/ConvLab-2/)
 
