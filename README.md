@@ -7,8 +7,24 @@ Many end-to-end multi-task Dialogue Systems architectures rely on different modu
 
 ### Results
 
+#### Performance metrics
+|Complete | Success | Turn | Book |
+|---------|:-------:|:----:|-----:|
+|PPO 0.72 |0.60 |19.65 |0.59|
+|RND (DAs) | 0.78 | 0.67|  17.66|  0.612| 
+|RND (utt)|  0.82|  0.73|  16.80|  0.68| 
+|IC (DAs) | 0.74|  0.64|  17.98|  0.57| 
+|IC (utt)|  0.76|  0.65|  17.67|  0.60| 
+|IC joint (DAs)|  0.78|  0.65|  18.37|  0.69| 
+
+
+
+#### Learning curves
+
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+
 
 - [Convlab-2 repo](https://github.com/thu-coai/ConvLab-2/)
 
-Results and core modules correspond to [this](https://drive.google.com/drive/folders/1SeAEZ5__ulWxaXQaF_Y6N1iZ6G6t2qQq?usp=sharing) Convlab-2 version.
+- Results and core modules correspond to [this](https://drive.google.com/drive/folders/1SeAEZ5__ulWxaXQaF_Y6N1iZ6G6t2qQq?usp=sharing) Convlab-2 version.
