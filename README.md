@@ -22,10 +22,10 @@ Many end-to-end multi-task Dialogue Systems architectures rely on different modu
 
 <div class="row">
   <div class="row" align="center">
-    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/success_rate_curves.png" width = 1000> 
-    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/book_rate_curves.png" width = 1000> 
-    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/turns_curves.png" width = 1000> 
-    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/rewards_curves.png" width = 1000> 
+    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/success_rate_curves.png" width = 600> 
+    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/book_rate_curves.png" width = 600> 
+    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/turns_curves.png" width = 600> 
+    <img src="https://github.com/thenickben/ucl_thesis/blob/master/report/assets/rewards_curves.png" width = 600> 
   </div>
 </div>
 
