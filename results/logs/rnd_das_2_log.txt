@@ -1,0 +1,563 @@
+Date: 08/09/2020 14:18:46
+
+****************************************************************************************************
+
+Training...
+
+Total Steps 0
+--------------------------------------------------
+Time elapsed: 0:03:17
+Success rate: 0.42
+Request rate: 0.4
+Book rate: 0.07802287581699345
+Average turns: 14.64
+Average reward: 3.5809660894660893
+--------------------------------------------------
+
+Total Steps 22289
+--------------------------------------------------
+Time elapsed: 0:19:35
+Success rate: 0.522
+Request rate: 0.483
+Book rate: 0.2615683865683866
+Average turns: 13.19
+Average reward: 4.363190476190476
+--------------------------------------------------
+
+Total Steps 44470
+--------------------------------------------------
+Time elapsed: 0:35:53
+Success rate: 0.538
+Request rate: 0.483
+Book rate: 0.34202211690363343
+Average turns: 10.534
+Average reward: 5.01365873015873
+--------------------------------------------------
+
+Total Steps 66570
+--------------------------------------------------
+Time elapsed: 0:52:26
+Success rate: 0.536
+Request rate: 0.479
+Book rate: 0.4537037037037037
+Average turns: 9.933
+Average reward: 5.27901984126984
+--------------------------------------------------
+
+Total Steps 88265
+--------------------------------------------------
+Time elapsed: 1:08:16
+Success rate: 0.538
+Request rate: 0.492
+Book rate: 0.5019595709570956
+Average turns: 8.664
+Average reward: 5.374198412698413
+--------------------------------------------------
+
+Total Steps 109855
+--------------------------------------------------
+Time elapsed: 1:23:06
+Success rate: 0.615
+Request rate: 0.601
+Book rate: 0.5729429051217465
+Average turns: 8.048
+Average reward: 5.081992063492063
+--------------------------------------------------
+
+Total Steps 131158
+--------------------------------------------------
+Time elapsed: 1:37:09
+Success rate: 0.62
+Request rate: 0.625
+Book rate: 0.5754310344827587
+Average turns: 8.29
+Average reward: 6.473388888888889
+--------------------------------------------------
+
+Total Steps 152608
+--------------------------------------------------
+Time elapsed: 1:51:02
+Success rate: 0.618
+Request rate: 0.652
+Book rate: 0.513272410791993
+Average turns: 7.903
+Average reward: 6.6936825396825395
+--------------------------------------------------
+
+Total Steps 174084
+--------------------------------------------------
+Time elapsed: 2:04:51
+Success rate: 0.631
+Request rate: 0.67
+Book rate: 0.4966755319148936
+Average turns: 7.767
+Average reward: 8.099396825396825
+--------------------------------------------------
+
+Total Steps 195766
+--------------------------------------------------
+Time elapsed: 2:18:38
+Success rate: 0.601
+Request rate: 0.653
+Book rate: 0.43955696202531647
+Average turns: 7.891
+Average reward: 6.733706349206349
+--------------------------------------------------
+
+Total Steps 217754
+--------------------------------------------------
+Time elapsed: 2:32:27
+Success rate: 0.586
+Request rate: 0.637
+Book rate: 0.4512248468941382
+Average turns: 8.008
+Average reward: 6.350063492063493
+--------------------------------------------------
+
+Total Steps 239608
+--------------------------------------------------
+Time elapsed: 2:46:09
+Success rate: 0.569
+Request rate: 0.622
+Book rate: 0.39012345679012345
+Average turns: 7.784
+Average reward: 4.821425770308123
+--------------------------------------------------
+
+Total Steps 261598
+--------------------------------------------------
+Time elapsed: 3:00:04
+Success rate: 0.556
+Request rate: 0.602
+Book rate: 0.42008706467661694
+Average turns: 8.48
+Average reward: 4.348624183006536
+--------------------------------------------------
+
+Total Steps 283276
+--------------------------------------------------
+Time elapsed: 3:13:46
+Success rate: 0.52
+Request rate: 0.598
+Book rate: 0.2803030303030303
+Average turns: 8.577
+Average reward: 6.168329365079364
+--------------------------------------------------
+
+Total Steps 305192
+--------------------------------------------------
+Time elapsed: 3:27:32
+Success rate: 0.552
+Request rate: 0.644
+Book rate: 0.32015852613538986
+Average turns: 9.282
+Average reward: 5.873987456987456
+--------------------------------------------------
+
+Total Steps 326995
+--------------------------------------------------
+Time elapsed: 3:41:21
+Success rate: 0.564
+Request rate: 0.664
+Book rate: 0.31415837479270314
+Average turns: 9.664
+Average reward: 5.443507936507936
+--------------------------------------------------
+
+Total Steps 349100
+--------------------------------------------------
+Time elapsed: 3:55:01
+Success rate: 0.57
+Request rate: 0.632
+Book rate: 0.3284552845528455
+Average turns: 9.762
+Average reward: 5.458150793650793
+--------------------------------------------------
+
+Total Steps 371192
+--------------------------------------------------
+Time elapsed: 4:08:48
+Success rate: 0.579
+Request rate: 0.646
+Book rate: 0.31027918781725894
+Average turns: 9.938
+Average reward: 6.013928571428571
+--------------------------------------------------
+
+Total Steps 393137
+--------------------------------------------------
+Time elapsed: 4:22:27
+Success rate: 0.606
+Request rate: 0.668
+Book rate: 0.34456339210747267
+Average turns: 10.273
+Average reward: 5.632652236652235
+--------------------------------------------------
+
+Total Steps 415165/content/drive/My Drive/convlab_v7/ConvLab-2/convlab2/util/analysis_tool/helper.py:315: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  plt.figure(figsize=(10, 7), dpi=300)
+
+--------------------------------------------------
+Time elapsed: 4:36:05
+Success rate: 0.593
+Request rate: 0.65
+Book rate: 0.42528735632183906
+Average turns: 10.125
+Average reward: 5.307492063492064
+--------------------------------------------------
+
+Total Steps 437386/content/drive/My Drive/convlab_v7/ConvLab-2/convlab2/util/analysis_tool/helper.py:245: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  plt.figure(figsize=(10, 7), dpi=300)
+/content/drive/My Drive/convlab_v7/ConvLab-2/convlab2/util/analysis_tool/helper.py:268: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  plt.figure(figsize=(12, 7), dpi=300)
+/content/drive/My Drive/convlab_v7/ConvLab-2/convlab2/util/analysis_tool/helper.py:306: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  plt.figure()
+
+--------------------------------------------------
+Time elapsed: 4:49:48
+Success rate: 0.613
+Request rate: 0.676
+Book rate: 0.41572916666666665
+Average turns: 10.167
+Average reward: 4.647971861471862
+--------------------------------------------------
+
+Total Steps 459455
+--------------------------------------------------
+Time elapsed: 5:03:26
+Success rate: 0.63
+Request rate: 0.668
+Book rate: 0.4032776349614396
+Average turns: 9.94
+Average reward: 4.54118253968254
+--------------------------------------------------
+
+Total Steps 481838
+--------------------------------------------------
+Time elapsed: 5:17:21
+Success rate: 0.633
+Request rate: 0.679
+Book rate: 0.4689922480620155
+Average turns: 9.943
+Average reward: 5.330269841269842
+--------------------------------------------------
+
+Total Steps 503925
+--------------------------------------------------
+Time elapsed: 5:30:57
+Success rate: 0.631
+Request rate: 0.674
+Book rate: 0.43902439024390244
+Average turns: 10.045
+Average reward: 5.466640692640692
+--------------------------------------------------
+
+Total Steps 525797
+--------------------------------------------------
+Time elapsed: 5:44:19
+Success rate: 0.645
+Request rate: 0.741
+Book rate: 0.48665845648604267
+Average turns: 9.559
+Average reward: 5.0976406926406925
+--------------------------------------------------
+
+Total Steps 547751
+--------------------------------------------------
+Time elapsed: 5:57:51
+Success rate: 0.639
+Request rate: 0.729
+Book rate: 0.4848484848484848
+Average turns: 9.857
+Average reward: 6.23555339105339
+--------------------------------------------------
+
+Total Steps 569409
+--------------------------------------------------
+Time elapsed: 6:11:24
+Success rate: 0.635
+Request rate: 0.7
+Book rate: 0.49762788778877887
+Average turns: 9.332
+Average reward: 5.754616883116882
+--------------------------------------------------
+
+Total Steps 591389
+--------------------------------------------------
+Time elapsed: 6:24:58
+Success rate: 0.656
+Request rate: 0.727
+Book rate: 0.5469512195121952
+Average turns: 9.112
+Average reward: 5.3484920634920625
+--------------------------------------------------
+
+Total Steps 613109
+--------------------------------------------------
+Time elapsed: 6:38:12
+Success rate: 0.682
+Request rate: 0.727
+Book rate: 0.5604166666666667
+Average turns: 8.718
+Average reward: 6.473743867243866
+--------------------------------------------------
+
+Total Steps 634839
+--------------------------------------------------
+Time elapsed: 6:51:40
+Success rate: 0.684
+Request rate: 0.771
+Book rate: 0.5655806182121972
+Average turns: 9.168
+Average reward: 7.297323232323232
+--------------------------------------------------
+
+Total Steps 656712
+--------------------------------------------------
+Time elapsed: 7:05:13
+Success rate: 0.67
+Request rate: 0.761
+Book rate: 0.57375
+Average turns: 9.271
+Average reward: 7.506227994227994
+--------------------------------------------------
+
+Total Steps 678716
+--------------------------------------------------
+Time elapsed: 7:18:53
+Success rate: 0.67
+Request rate: 0.736
+Book rate: 0.555186170212766
+Average turns: 9.27
+Average reward: 5.291281385281386
+--------------------------------------------------
+
+Total Steps 700716
+--------------------------------------------------
+Time elapsed: 7:32:46
+Success rate: 0.668
+Request rate: 0.738
+Book rate: 0.5782955499580185
+Average turns: 9.678
+Average reward: 6.348761904761904
+--------------------------------------------------
+
+Total Steps 722327
+--------------------------------------------------
+Time elapsed: 7:46:15
+Success rate: 0.676
+Request rate: 0.778
+Book rate: 0.5874898621248986
+Average turns: 9.066
+Average reward: 6.989956349206349
+--------------------------------------------------
+
+Total Steps 744389
+--------------------------------------------------
+Time elapsed: 8:00:01
+Success rate: 0.66
+Request rate: 0.759
+Book rate: 0.5477386934673367
+Average turns: 9.353
+Average reward: 7.506849206349205
+--------------------------------------------------
+
+Total Steps 766335
+--------------------------------------------------
+Time elapsed: 8:13:52
+Success rate: 0.703
+Request rate: 0.76
+Book rate: 0.5783934707903781
+Average turns: 9.283
+Average reward: 5.507285714285714
+--------------------------------------------------
+
+Total Steps 787961
+--------------------------------------------------
+Time elapsed: 8:27:38
+Success rate: 0.662
+Request rate: 0.734
+Book rate: 0.5698717948717948
+Average turns: 9.628
+Average reward: 5.00883694083694
+--------------------------------------------------
+
+Total Steps 809693
+--------------------------------------------------
+Time elapsed: 8:41:06
+Success rate: 0.688
+Request rate: 0.781
+Book rate: 0.6095991561181434
+Average turns: 8.874
+Average reward: 6.203368686868686
+--------------------------------------------------
+
+Total Steps 831464
+--------------------------------------------------
+Time elapsed: 8:54:49
+Success rate: 0.677
+Request rate: 0.761
+Book rate: 0.5710125448028673
+Average turns: 9.145
+Average reward: 6.468507936507937
+--------------------------------------------------
+
+Total Steps 853465
+--------------------------------------------------
+Time elapsed: 9:08:29
+Success rate: 0.693
+Request rate: 0.782
+Book rate: 0.5934882747068676
+Average turns: 8.826
+Average reward: 6.926992063492064
+--------------------------------------------------
+
+Total Steps 875321
+--------------------------------------------------
+Time elapsed: 9:22:07
+Success rate: 0.696
+Request rate: 0.786
+Book rate: 0.5951318027210885
+Average turns: 8.885
+Average reward: 8.713095238095239
+--------------------------------------------------
+
+Total Steps 897058
+--------------------------------------------------
+Time elapsed: 9:35:39
+Success rate: 0.697
+Request rate: 0.782
+Book rate: 0.6235156912637828
+Average turns: 9.029
+Average reward: 7.648455988455988
+--------------------------------------------------
+
+Total Steps 918824
+--------------------------------------------------
+Time elapsed: 9:49:16
+Success rate: 0.709
+Request rate: 0.78
+Book rate: 0.6026214833759591
+Average turns: 9.042
+Average reward: 6.516503968253969
+--------------------------------------------------
+
+Total Steps 940479
+--------------------------------------------------
+Time elapsed: 10:03:03
+Success rate: 0.659
+Request rate: 0.721
+Book rate: 0.5511658031088082
+Average turns: 9.88
+Average reward: 7.195119047619047
+--------------------------------------------------
+
+Total Steps 962216
+--------------------------------------------------
+Time elapsed: 10:16:30
+Success rate: 0.685
+Request rate: 0.769
+Book rate: 0.5757113821138211
+Average turns: 9.073
+Average reward: 5.996011266511266
+--------------------------------------------------
+
+Total Steps 984000
+--------------------------------------------------
+Time elapsed: 10:29:54
+Success rate: 0.695
+Request rate: 0.759
+Book rate: 0.5724957912457912
+Average turns: 8.984
+Average reward: 6.220940115440116
+--------------------------------------------------
+
+Total Steps 1005726
+--------------------------------------------------
+Time elapsed: 10:43:07
+Success rate: 0.701
+Request rate: 0.768
+Book rate: 0.6264671361502347
+Average turns: 9.233
+Average reward: 7.462358585858585
+--------------------------------------------------
+
+Total Steps 1027226
+--------------------------------------------------
+Time elapsed: 10:56:02
+Success rate: 0.69
+Request rate: 0.761
+Book rate: 0.6054919423240034
+Average turns: 9.208
+Average reward: 5.895217893217893
+--------------------------------------------------
+
+Total Steps 1048700
+--------------------------------------------------
+Time elapsed: 11:09:04
+Success rate: 0.7
+Request rate: 0.746
+Book rate: 0.5894144144144143
+Average turns: 9.291
+Average reward: 5.816767676767677
+--------------------------------------------------
+
+Total Steps 1070418
+--------------------------------------------------
+Time elapsed: 11:22:13
+Success rate: 0.686
+Request rate: 0.765
+Book rate: 0.5969180859691808
+Average turns: 9.214
+Average reward: 6.753289321789322
+--------------------------------------------------
+
+Total Steps 1091677
+--------------------------------------------------
+Time elapsed: 11:35:18
+Success rate: 0.733
+Request rate: 0.798
+Book rate: 0.6596045197740112
+Average turns: 8.674
+Average reward: 5.880495393495393
+--------------------------------------------------
+
+Total Steps 1113144
+--------------------------------------------------
+Time elapsed: 11:48:21
+Success rate: 0.702
+Request rate: 0.78
+Book rate: 0.6192427790788446
+Average turns: 8.846
+Average reward: 5.713616883116882
+--------------------------------------------------
+
+Total Steps 1134529
+--------------------------------------------------
+Time elapsed: 12:01:17
+Success rate: 0.698
+Request rate: 0.794
+Book rate: 0.6215360253365003
+Average turns: 8.558
+Average reward: 7.867714285714286
+--------------------------------------------------
+
+Total Steps 1155892
+--------------------------------------------------
+Time elapsed: 12:14:13
+Success rate: 0.729
+Request rate: 0.806
+Book rate: 0.6524668325041459
+Average turns: 8.576
+Average reward: 7.012630591630592
+--------------------------------------------------
+
+Total Steps 1177538
+--------------------------------------------------
+Time elapsed: 12:27:23
+Success rate: 0.71
+Request rate: 0.787
+Book rate: 0.6309369602763385
+Average turns: 8.713
+Average reward: 7.646503607503607
+--------------------------------------------------

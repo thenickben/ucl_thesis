@@ -1,0 +1,386 @@
+
+Total Steps 0
+Success rate: 0.46
+Request rate: 0.432
+Book rate: 0.07885304659498207
+Average turns: 14.18
+Average reward: 4.601380952380953
+
+Total Steps 22394
+Success rate: 0.538
+Request rate: 0.464
+Book rate: 0.3232456140350877
+Average turns: 12.39
+Average reward: 4.596449938949939
+
+Total Steps 44821
+Success rate: 0.488
+Request rate: 0.416
+Book rate: 0.3103174603174603
+Average turns: 11.596
+Average reward: 4.349934837092731
+
+Total Steps 66808
+Success rate: 0.54
+Request rate: 0.45
+Book rate: 0.5325797872340425
+Average turns: 9.388
+Average reward: 4.565261904761905
+
+Total Steps 88729
+Success rate: 0.548
+Request rate: 0.464
+Book rate: 0.5817535545023697
+Average turns: 8.424
+Average reward: 4.454981962481962
+
+Total Steps 110335
+Success rate: 0.526
+Request rate: 0.444
+Book rate: 0.6375195618153364
+Average turns: 8.556
+Average reward: 5.126571428571429
+
+Total Steps 131884
+Success rate: 0.554
+Request rate: 0.436
+Book rate: 0.5216763005780347
+Average turns: 7.994
+Average reward: 4.54465836940837
+
+Total Steps 153735
+Success rate: 0.528
+Request rate: 0.426
+Book rate: 0.4987244897959184
+Average turns: 7.666
+Average reward: 6.286886446886448
+
+Total Steps 175975
+Success rate: 0.464
+Request rate: 0.428
+Book rate: 0.32657657657657657
+Average turns: 7.412
+Average reward: 3.3215345181134652
+
+Total Steps 198058
+Success rate: 0.526
+Request rate: 0.404
+Book rate: 0.3111525704809287
+Average turns: 6.036
+Average reward: 3.4484999999999997
+
+Total Steps 220302
+Success rate: 0.442
+Request rate: 0.37
+Book rate: 0.25797448165869213
+Average turns: 6.332
+Average reward: 5.265220057720057
+
+Total Steps 242703
+Success rate: 0.484
+Request rate: 0.396
+Book rate: 0.2524752475247525
+Average turns: 6.444
+Average reward: 5.0699523809523805
+
+Total Steps 265006
+Success rate: 0.504
+Request rate: 0.456
+Book rate: 0.18422165820642977
+Average turns: 6.65
+Average reward: 5.234277777777778
+
+Total Steps 287017
+Success rate: 0.548
+Request rate: 0.458
+Book rate: 0.2966988727858293
+Average turns: 6.85
+Average reward: 5.221261904761905
+
+Total Steps 309418
+Success rate: 0.53
+Request rate: 0.486
+Book rate: 0.22582037996545767
+Average turns: 7.024
+Average reward: 4.085952380952381
+
+Total Steps 331550
+Success rate: 0.548
+Request rate: 0.53
+Book rate: 0.255
+Average turns: 7.576
+Average reward: 3.698221583971584
+
+Total Steps 353317
+Success rate: 0.564
+Request rate: 0.584
+Book rate: 0.25574712643678166
+Average turns: 7.59
+Average reward: 5.884450216450215
+
+Total Steps 375346
+Success rate: 0.52
+Request rate: 0.62
+Book rate: 0.2606635071090047
+Average turns: 9.166
+Average reward: 6.268714285714286
+
+Total Steps 397093
+Success rate: 0.502
+Request rate: 0.574
+Book rate: 0.3073170731707317
+Average turns: 10.676
+Average reward: 5.491370851370851
+
+Total Steps 418975
+Success rate: 0.516
+Request rate: 0.64
+Book rate: 0.3200571895424837
+Average turns: 10.094
+Average reward: 5.841690115440116
+
+Total Steps 440826
+Success rate: 0.526
+Request rate: 0.66
+Book rate: 0.33972772277227725
+Average turns: 10.452
+Average reward: 6.879912590677297
+
+Total Steps 462272
+Success rate: 0.592
+Request rate: 0.738
+Book rate: 0.3606391585760517
+Average turns: 9.89
+Average reward: 7.017777777777777
+
+Total Steps 483543
+Success rate: 0.64
+Request rate: 0.768
+Book rate: 0.3777322404371585
+Average turns: 8.822
+Average reward: 5.4435079365079355
+
+Total Steps 504920
+Success rate: 0.634
+Request rate: 0.782
+Book rate: 0.44286941580756006
+Average turns: 9.002
+Average reward: 6.747399518781872
+
+Total Steps 526063
+Success rate: 0.558
+Request rate: 0.702
+Book rate: 0.41296728971962615
+Average turns: 10.058
+Average reward: 6.398547619047618
+
+Total Steps 547761
+Success rate: 0.574
+Request rate: 0.71
+Book rate: 0.38239875389408107
+Average turns: 10.552
+Average reward: 5.597479797979798
+
+Total Steps 569466
+Success rate: 0.606
+Request rate: 0.732
+Book rate: 0.4777633851468049
+Average turns: 10.064
+Average reward: 6.024858946608947
+
+Total Steps 590960
+Success rate: 0.572
+Request rate: 0.718
+Book rate: 0.5179699842022116
+Average turns: 10.146
+Average reward: 4.7647597402597395
+
+Total Steps 612498
+Success rate: 0.592
+Request rate: 0.72
+Book rate: 0.5087301587301587
+Average turns: 9.982
+Average reward: 4.744614718614718
+
+Total Steps 634470
+Success rate: 0.602
+Request rate: 0.718
+Book rate: 0.541893115942029
+Average turns: 10.554
+Average reward: 6.013307359307358
+
+Total Steps 656223
+Success rate: 0.638
+Request rate: 0.812
+Book rate: 0.6011904761904762
+Average turns: 9.028
+Average reward: 5.9541443001443
+
+Total Steps 678027
+Success rate: 0.654
+Request rate: 0.784
+Book rate: 0.6442307692307693
+Average turns: 9.388
+Average reward: 5.0891803751803755
+
+Total Steps 699626
+Success rate: 0.684
+Request rate: 0.82
+Book rate: 0.6912972085385878
+Average turns: 8.744
+Average reward: 5.139537240537241
+
+Total Steps 721161
+Success rate: 0.674
+Request rate: 0.798
+Book rate: 0.6712478184991273
+Average turns: 8.72
+Average reward: 7.0633333333333335
+
+Total Steps 743150
+Success rate: 0.592
+Request rate: 0.722
+Book rate: 0.5811815336463223
+Average turns: 10.158
+Average reward: 6.352725829725829
+
+Total Steps 765087
+Success rate: 0.66
+Request rate: 0.806
+Book rate: 0.6609116022099447
+Average turns: 9.066
+Average reward: 4.614701742701743
+
+Total Steps 786695
+Success rate: 0.668
+Request rate: 0.804
+Book rate: 0.6888341543513957
+Average turns: 9.14
+Average reward: 5.974969696969697
+
+Total Steps 808420
+Success rate: 0.644
+Request rate: 0.79
+Book rate: 0.6741898148148148
+Average turns: 9.332
+Average reward: 6.0952777777777785
+
+Total Steps 830115
+Success rate: 0.65
+Request rate: 0.78
+Book rate: 0.6679487179487179
+Average turns: 9.258
+Average reward: 6.787751803751804
+
+Total Steps 852191
+Success rate: 0.592
+Request rate: 0.756
+Book rate: 0.6171752738654146
+Average turns: 9.716
+Average reward: 5.0263287268287264
+
+Total Steps 874006
+Success rate: 0.646
+Request rate: 0.766
+Book rate: 0.6078296703296703
+Average turns: 9.434
+Average reward: 5.683550671550671
+
+Total Steps 895850
+Success rate: 0.6
+Request rate: 0.746
+Book rate: 0.5779246794871795
+Average turns: 9.708
+Average reward: 5.845352536352537
+
+Total Steps 917461
+Success rate: 0.626
+Request rate: 0.758
+Book rate: 0.6170309653916211
+Average turns: 9.788
+Average reward: 6.7834715839715845
+
+Total Steps 939064
+Success rate: 0.662
+Request rate: 0.818
+Book rate: 0.6771825396825396
+Average turns: 9.02
+Average reward: 6.471821067821066
+
+Total Steps 960499
+Success rate: 0.692
+Request rate: 0.83
+Book rate: 0.6805555555555556
+Average turns: 8.798
+Average reward: 5.862027417027417
+
+Total Steps 982397
+Success rate: 0.66
+Request rate: 0.8
+Book rate: 0.6664719626168224
+Average turns: 9.15
+Average reward: 6.911727994227993
+
+Total Steps 1004007
+Success rate: 0.662
+Request rate: 0.784
+Book rate: 0.6185092127303183
+Average turns: 9.174
+Average reward: 5.763382117882119
+
+Total Steps 1025374
+Success rate: 0.704
+Request rate: 0.824
+Book rate: 0.6842783505154639
+Average turns: 8.656
+Average reward: 5.697376623376623
+
+Total Steps 1046931
+Success rate: 0.696
+Request rate: 0.84
+Book rate: 0.7154255319148937
+Average turns: 8.232
+Average reward: 5.718823232323232
+
+Total Steps 1068382
+Success rate: 0.648
+Request rate: 0.796
+Book rate: 0.6658536585365854
+Average turns: 8.902
+Average reward: 6.244989898989899
+
+Total Steps 1089963
+Success rate: 0.684
+Request rate: 0.77
+Book rate: 0.7001295336787565
+Average turns: 8.936
+Average reward: 6.818013708513707
+
+Total Steps 1111294
+Success rate: 0.66
+Request rate: 0.802
+Book rate: 0.732780612244898
+Average turns: 8.376
+Average reward: 5.707079365079364
+
+Total Steps 1132694
+Success rate: 0.664
+Request rate: 0.794
+Book rate: 0.7101897689768976
+Average turns: 8.544
+Average reward: 5.718202020202019
+
+Total Steps 1153958
+Success rate: 0.656
+Request rate: 0.758
+Book rate: 0.6977083333333334
+Average turns: 9.36
+Average reward: 4.71988455988456
+
+Total Steps 1175463
+Success rate: 0.67
+Request rate: 0.766
+Book rate: 0.7694128787878789
+Average turns: 9.678
+Average reward: 6.728154123654124
+

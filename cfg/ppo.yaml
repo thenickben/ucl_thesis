@@ -1,0 +1,23 @@
+folder_name : 'ppo_new_1'
+
+model_name : 'ppo'  
+
+# --- experiment hyperparameters ---
+
+batchsz : 32
+n_steps : 1200000  # in steps
+log_freq : 200    # in epochs 
+update_round : 5  # in steps
+n_eval : 1000
+
+s_dim : 340
+h_dim : 100
+a_dim : 209
+hv_dim : 50
+surrogate_clip : 0.1          
+optim_batchsz : 32
+gamma : 0.99
+tau : 0.95
+policy_lr : 0.000005
+value_lr :  0.00001
+seed : 786
