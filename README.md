@@ -31,4 +31,4 @@ Many end-to-end multi-task Dialogue Systems architectures rely on different modu
 
 - [Convlab-2 repo](https://github.com/thu-coai/ConvLab-2/)
 
-- Results and core modules correspond to [this](https://drive.google.com/drive/folders/1SeAEZ5__ulWxaXQaF_Y6N1iZ6G6t2qQq?usp=sharing) Convlab-2 version.
+- Core modules correspond to [this](https://drive.google.com/drive/folders/1SeAEZ5__ulWxaXQaF_Y6N1iZ6G6t2qQq?usp=sharing) Convlab-2 version.
